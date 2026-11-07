@@ -9,7 +9,7 @@ Factory-OEM | Cross-Border DDP Freight &amp; Duty Calculator
 
 A free online calculator for estimating **DDP (Delivered Duty Paid) landed cost** on cross-border ocean and air freight. Enter your destination, shipping method, carton count, package dimensions, declared value, and tariff tier — the tool instantly returns the total DDP shipping cost, billable weight, volumetric weight, CBM, and a full cost breakdown including freight, customs duty, and DDP service fee.
 
-**?? Open the calculator: [https://factory-oem.com/Ai/DDP/](https://factory-oem.com/Ai/DDP/)**
+** Open the calculator: [https://factory-oem.com/Ai/DDP/](https://factory-oem.com/Ai/DDP/)**
 
 > **Estimates only.** All freight rates, duty tiers, and service fees are simplified approximations for planning and educational purposes. Actual charges depend on your forwarder's quote and destination customs rules. Always confirm with your logistics provider before shipping.
 
